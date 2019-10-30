@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+
+<listeners>
+	<listener class-name="SeleniumE2ETytorial.listenersTest"/>
+	<listener class-name="resources.ExtentReporterNG"/>
+</listeners>
+
+  <test thread-count="5" name="LoginPageValidation">
+    <classes>
+      <class name="SeleniumE2ETytorial.LoginPageValidation"/>
+      </classes>
+  </test>
+  <test thread-count="5" name="HomePageHeaderValidation">
+    <classes>
+      <class name="SeleniumE2ETytorial.HomePageHeaderValidation"/>
+      </classes>
+  </test>
+  <test thread-count="5" name="HomePageNavigation">
+    <classes>
+      <class name="SeleniumE2ETytorial.HomePageNavigation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

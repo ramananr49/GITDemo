@@ -1,0 +1,71 @@
+19:49:20.186 [main] INFO  java.lang.Class - About Label is Displayed
+19:49:20.337 [main] INFO  java.lang.Class - Contact Label is Displayed
+19:49:27.979 [main] INFO  java.lang.Class - Application Launched
+19:49:28.045 [main] INFO  java.lang.Class - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+19:59:55.270 [main] INFO  java.lang.Class - Application Launched
+20:00:06.360 [main] INFO  java.lang.Class - Navigated to Login Screen
+20:00:06.709 [main] INFO  java.lang.Class - Email Address Entered
+20:00:06.868 [main] INFO  java.lang.Class - Password entered
+20:00:09.232 [main] INFO  java.lang.Class - Login Button Has been clicked
+20:00:12.859 [main] INFO  java.lang.Class - Application Launched
+20:00:23.040 [main] INFO  java.lang.Class - Navigated to Login Screen
+20:00:23.323 [main] INFO  java.lang.Class - Email Address Entered
+20:00:23.482 [main] INFO  java.lang.Class - Password entered
+20:00:30.207 [main] INFO  java.lang.Class - Login Button Has been clicked
+20:00:58.307 [main] INFO  java.lang.Class - Application Launched
+20:00:59.448 [main] INFO  java.lang.Class - Home Label is Displayed
+20:00:59.521 [main] INFO  java.lang.Class - Courses Label is Displayed
+20:00:59.597 [main] INFO  java.lang.Class - Videos Label is Displayed
+20:00:59.649 [main] INFO  java.lang.Class - Interview Guide Label is Displayed
+20:00:59.707 [main] INFO  java.lang.Class - Practice Label is Displayed
+20:00:59.761 [main] INFO  java.lang.Class - Blog Label is Displayed
+20:00:59.831 [main] INFO  java.lang.Class - About Label is Displayed
+20:00:59.873 [main] INFO  java.lang.Class - Contact Label is Displayed
+20:01:12.748 [main] INFO  java.lang.Class - Application Launched
+20:01:12.807 [main] INFO  java.lang.Class - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+01:22:57.047 [main] INFO  java.lang.Class - Application Launched
+01:23:13.777 [main] INFO  java.lang.Class - Navigated to Login Screen
+01:23:14.323 [main] INFO  java.lang.Class - Email Address Entered
+01:23:14.456 [main] INFO  java.lang.Class - Password entered
+01:23:21.557 [main] INFO  java.lang.Class - Login Button Has been clicked
+01:23:24.754 [main] INFO  java.lang.Class - Application Launched
+01:23:31.792 [main] INFO  java.lang.Class - Navigated to Login Screen
+01:23:31.989 [main] INFO  java.lang.Class - Email Address Entered
+01:23:32.144 [main] INFO  java.lang.Class - Password entered
+01:23:34.504 [main] INFO  java.lang.Class - Login Button Has been clicked
+01:23:51.080 [main] INFO  java.lang.Class - Application Launched
+01:23:51.342 [main] INFO  java.lang.Class - Home Label is Displayed
+01:23:51.413 [main] INFO  java.lang.Class - Courses Label is Displayed
+01:23:51.466 [main] INFO  java.lang.Class - Videos Label is Displayed
+01:23:51.529 [main] INFO  java.lang.Class - Interview Guide Label is Displayed
+01:23:51.591 [main] INFO  java.lang.Class - Practice Label is Displayed
+01:23:51.676 [main] INFO  java.lang.Class - Blog Label is Displayed
+01:23:51.738 [main] INFO  java.lang.Class - About Label is Displayed
+01:23:51.791 [main] INFO  java.lang.Class - Contact Label is Displayed
+01:24:10.912 [main] INFO  java.lang.Class - Application Launched
+01:24:10.976 [main] INFO  java.lang.Class - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+01:28:29.032 [main] INFO  java.lang.Class - Application Launched
+01:41:29.517 [TestNG-tests-3] INFO  java.lang.Class - Application Launched
+01:41:31.519 [TestNG-tests-1] INFO  java.lang.Class - Application Launched
+01:41:32.356 [TestNG-tests-2] INFO  java.lang.Class - Application Launched
+01:41:32.945 [TestNG-tests-3] INFO  java.lang.Class - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+01:41:45.920 [TestNG-tests-1] INFO  java.lang.Class - Navigated to Login Screen
+01:41:47.555 [TestNG-tests-1] INFO  java.lang.Class - Email Address Entered
+01:43:15.428 [main] INFO  java.lang.Class - Application Launched
+01:43:22.929 [main] INFO  java.lang.Class - Navigated to Login Screen
+01:43:23.212 [main] INFO  java.lang.Class - Email Address Entered
+01:43:23.345 [main] INFO  java.lang.Class - Password entered
+01:43:25.585 [main] INFO  java.lang.Class - Login Button Has been clicked
+01:43:28.158 [main] INFO  java.lang.Class - Application Launched
+01:43:34.647 [main] INFO  java.lang.Class - Navigated to Login Screen
+01:43:34.839 [main] INFO  java.lang.Class - Email Address Entered
+01:43:34.965 [main] INFO  java.lang.Class - Password entered
+01:43:37.269 [main] INFO  java.lang.Class - Login Button Has been clicked
+01:43:54.826 [main] INFO  java.lang.Class - Application Launched
+01:43:54.989 [main] INFO  java.lang.Class - Home Label is Displayed
+01:43:55.053 [main] INFO  java.lang.Class - Courses Label is Displayed
+01:43:55.114 [main] INFO  java.lang.Class - Videos Label is Displayed
+01:43:55.185 [main] INFO  java.lang.Class - Interview Guide Label is Displayed
+01:43:55.243 [main] INFO  java.lang.Class - Practice Label is Displayed
+01:43:55.315 [main] INFO  java.lang.Class - Blog Label is Displayed
+01:43:55.365 [main] INFO  java.lang.Class - About Label is Displayed
